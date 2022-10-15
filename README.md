@@ -1,4 +1,4 @@
-Inkitt parser and translator
+[Inkitt](https://www.inkitt.com/) parser and translator
 
 ### installation
 ```sh
